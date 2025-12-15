@@ -27,7 +27,7 @@ Il collecte des informations essentielles sur la machine et génère un **rappor
 ## Installation
 
 ```bash
-git clone https://github.com/N3YGUIB/AAA
+git clone https://github.com/MohRay14/AAA
 cd AAA/
 ```
 
